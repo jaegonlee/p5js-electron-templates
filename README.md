@@ -57,4 +57,8 @@ For more example apps, see the
 [list of boilerplates](http://electron.atom.io/community/#boilerplates)
 created by the awesome electron community.
 
+## 참조
+https://tinydew4.gitbooks.io/electron-ko/content/tutorial/quick-start.html
+
+
 #### License [CC0 1.0 (Public Domain)](LICENSE.md)
